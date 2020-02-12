@@ -5,7 +5,7 @@ public class TestStack_Nathan_Neeley
 {
    public static void main (String[] args)
    {
-      Stack_Nathan_Neeley myStack = new Stack_Nathan_Neeley(); //create a list object
+      Stack_Nathan_Neeley<Integer> myStack = new Stack_Nathan_Neeley(); //create a list object
       Scanner input = new Scanner(System.in);
       
       int number = -1; 
