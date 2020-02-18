@@ -1,3 +1,10 @@
+// Name:       Nathan Neeley
+// Class:      CS 5040
+// Term:       Spring 2020
+// Instructor: Dr. Haddad
+// Assignment: 3
+// IDE:        jGrasp
+
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
@@ -5,7 +12,7 @@ public class TestStack_Nathan_Neeley
 {
    public static void main (String[] args)
    {
-      Stack_Nathan_Neeley<Integer> myStack = new Stack_Nathan_Neeley(); //create a list object
+      Stack_Nathan_Neeley myStack = new Stack_Nathan_Neeley(); //create a list object
       Scanner input = new Scanner(System.in);
       
       int number = -1; 

@@ -1,3 +1,10 @@
+// Name:       Nathan Neeley
+// Class:      CS 5040
+// Term:       Spring 2020
+// Instructor: Dr. Haddad
+// Assignment: 3
+// IDE:        jGrasp
+
 public class Stack_Nathan_Neeley<E>
 {
    public Node head, tail;
